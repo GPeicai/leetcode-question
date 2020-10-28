@@ -37,7 +37,7 @@
 
 package com.vinci.code.leetcode.editor.cn;
 //Java：监控二叉树
-class P968BinaryTreeCameras{
+public class P968BinaryTreeCameras{
     public static void main(String[] args) {
         Solution solution = new P968BinaryTreeCameras().new Solution();
         // TO TEST

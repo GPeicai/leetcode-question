@@ -53,11 +53,15 @@
 
 
 package com.vinci.code.leetcode.editor.cn;
+
+import java.util.Random;
+
 //Java：寻找两个正序数组的中位数
-public class P4MedianOfTwoSortedArrays{
+class P4MedianOfTwoSortedArrays{
     public static void main(String[] args) {
-        Solution solution = new P4MedianOfTwoSortedArrays().new Solution();
+        //Solution solution = new P4MedianOfTwoSortedArrays().new Solution();
         // TO TEST
+        System.out.println(new Random().nextInt(65535));
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
